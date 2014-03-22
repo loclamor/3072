@@ -8,7 +8,7 @@ Many thanks to [gabrielecirulli](https://github.com/gabrielecirulli), the origin
 ### Screenshot
 
 <p align="center">
-  <img src="https://github.com/loclamor/3072/blob/master/style/didit3072.png" alt="Screenshot"/>
+  <img src="https://github.com/loclamor/3072/blob/master/style/didit3072.png?raw=true" alt="Screenshot"/>
 </p>
 
 That screenshot is not a fake, I reached 3072 :smile:
